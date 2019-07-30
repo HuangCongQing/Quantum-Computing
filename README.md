@@ -1,8 +1,8 @@
 # Quantum-Computing
 量子计算（Quantum Computing）
 
-### Info
-
+### Tutorial
+* 视频：http://v.dxsbb.com/search.php?searchword=量子力学
 
 * 复旦大学 苏汝铿：3个E.
   * E.(Energy 能量）
