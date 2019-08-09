@@ -1,6 +1,11 @@
 # Quantum-Computing
 量子计算（Quantum Computing）
 
+* 量子算法，量子模拟，量子控制，量子软件，量子信息理论，量子纠错，量子机器学习，复杂性，量子开放系统，量子通信，量子器件，量子传感和多体纠缠。
+
+* Quantum algorithms, quantum simulation, quantum control, quantum software, quantum information theory, quantum error correction, quantum machine learning, complexity, quantum open systems, quantum communication, quantum device, quantum sensing， and many-body entanglement.
+
+
 ### Tutorial
 * 视频：http://v.dxsbb.com/search.php?searchword=量子力学
 
@@ -8,8 +13,6 @@
   * E.(Energy 能量）
   * E.(entropy  熵)-信息
   * E.(entanglement 纠缠)
-
-
 
 
 
