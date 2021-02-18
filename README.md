@@ -36,6 +36,11 @@
  * ETH在线课程QulD 2018：[https://qid.ethz.ch/](https://qid.ethz.ch/)
 
 
+### License
+
+Copyright (c) [双愚](https://github.com/HuangCongQing). All rights reserved.
+
+Licensed under the MIT License.
 
 
 
